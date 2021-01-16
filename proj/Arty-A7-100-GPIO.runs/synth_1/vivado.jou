@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Jan 15 21:37:59 2021
+# Process ID: 12284
+# Current directory: C:/Repos/mwwhited-forks/Arty-A7-100-GPIO/proj/Arty-A7-100-GPIO.runs/synth_1
+# Command line: vivado.exe -log GPIO_demo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source GPIO_demo.tcl
+# Log file: C:/Repos/mwwhited-forks/Arty-A7-100-GPIO/proj/Arty-A7-100-GPIO.runs/synth_1/GPIO_demo.vds
+# Journal file: C:/Repos/mwwhited-forks/Arty-A7-100-GPIO/proj/Arty-A7-100-GPIO.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source GPIO_demo.tcl -notrace
